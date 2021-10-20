@@ -26,7 +26,8 @@ SECRET_KEY = '333z#iknbpn++wj#clq!d7+lki8dt^j14o2-pb2l$ms=&yh2@s'
 DEBUG = False
 
 ALLOWED_HOSTS = [
-    '0.0.0.0'
+    '0.0.0.0',
+    'localhost'
 ]
 
 DEFAULT_PORT = "8080"
